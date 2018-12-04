@@ -1,5 +1,11 @@
 package com.nithin.spring.app.ws.ui.model.request;
 
+/**
+ * A POJO model class is used to convert the incoming JSON document into Java
+ * Objects.
+ * 
+ * @author Nithin
+ */
 public class UserDetailsRequestModel {
 
 	private String firstName;

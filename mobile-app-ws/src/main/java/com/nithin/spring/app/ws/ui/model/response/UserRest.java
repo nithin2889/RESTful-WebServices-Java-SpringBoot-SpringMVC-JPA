@@ -1,5 +1,14 @@
 package com.nithin.spring.app.ws.ui.model.response;
 
+/**
+ * A Java class which will be used by the framework to create JSON pay load
+ * which will be sent back as a response to a calling client (For Ex. A mobile
+ * application). This will contain some additional details confirming that the
+ * user details have been stored in the database.
+ * 
+ * @author Nithin
+ *
+ */
 public class UserRest {
 
 	private String userId;
